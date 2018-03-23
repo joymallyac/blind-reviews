@@ -14,7 +14,7 @@ To publish your app to the Chrome Web Store, follow these steps:
 10. Pay the developer signup fee
 11. Publish your app
 
-The detail description about each step is given below.
+All steps are not mandatory to publish your app. The detail description about each required step is given below. 
 
  Create your app’s zip file
  ================================
@@ -72,5 +72,11 @@ Pay the developer signup fee
 =============================
 Before you publish your first app, you must pay a one-time $5 developer signup fee. A reminder in the dashboard will appear until you pay the fee.
 
-Get app constraints and finish your app’s code
-===============================================
+Publish your app
+================
+Before you publish your app, verify that everything is working properly:
+
+1. On the edit page, click Preview changes and check that the listing looks great and has all the info that it should.
+2. Check that the app and any websites and supporting pages all work.
+3. Publish any new websites and supporting pages that your app needs to work.
+4. Publish your app.
