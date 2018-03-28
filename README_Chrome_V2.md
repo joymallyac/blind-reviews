@@ -1,10 +1,10 @@
 Publish in the Chrome Web Store
 ================================
 
-To publish your app to the Chrome Web Store, follow these steps:
- 1. Create your app’s zip file
+To publish blind-reviews app to the Chrome Web Store, follow these steps:
+ 1. Download the source code in zip file from GitHub (https://github.com/zombie/blind-reviews.git)
  2. Create a developer account
- 3. Upload your app
+ 3. Upload the blind-reviews app
  4. Pick a payments system
  5. Get app constraints and finish your app’s code
  6. Get the app ID
