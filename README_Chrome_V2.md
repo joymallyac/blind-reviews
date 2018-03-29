@@ -14,23 +14,15 @@ To publish blind-reviews app to the Chrome Web Store, follow these steps:
 10. Pay the developer signup fee
 11. Publish your app
 
-All steps are not mandatory to publish your app. The detail description about each required step is given below. 
-
-
+All steps are not mandatory to publish app. The detail description about each required step is given below. 
 
 Create a developer account
 ================================
-If you want to publish a hosted app, you'll need to create a developer acccount with proper credentials.
+In order to publish blind-reviews app, you'll need to create a developer acccount with proper credentials.
 
-Upload your app
+Upload the app
 =================
-To upload your app, use the Chrome Developer Dashboard.
-
-If you need the app ID or an OAuth access token to complete your app's code, then you need to upload the app while you're still writing its code. Otherwise, you can wait until the app is finished. You can upload your app many times before publishing it.
-
-When your app, its Chrome Web Store listing, and all the sites it relies on are ready, you can publish your app. You can publish up to 20 applications on Chrome Web Store.
-
-Here's how to upload your app:
+Here's how to upload the app:
 
 1. Go to the [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard).
 
@@ -40,7 +32,7 @@ Here's how to upload your app:
 
 4. If you've never uploaded an item before, you need to accept the developer agreement before going to the next step.
 
-5. Click Choose file > your zip file > Upload. If your app's manifest and ZIP file are valid, you can edit your app on the next page.
+5. Click Choose file > blind-reviews zip file > Upload.
 
 Pick a payment system
 ======================
